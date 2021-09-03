@@ -1,2 +1,2 @@
-# Rainbow-Poem
-This is a repo for my poem.
+# Repo - Code C++
+This is a repo for my code C++.
